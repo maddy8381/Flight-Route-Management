@@ -11,6 +11,6 @@
         STK_ADT.h
         MAIN.c
         
-    Hope You will Like It! Cheers !!!
+    I hope you will Like It! Cheers !!!
     
     
